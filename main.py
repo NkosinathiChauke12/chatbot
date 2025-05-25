@@ -34,7 +34,7 @@ class intentMatcher:
             return random.choice(best_match["reponses"])
         return None  
 # Configure Google Gemini AI
-genai.configure(api_key="AIzaSyD1JaVxrlkMty1R0Zn2sjxC5w9I86woYjs")
+genai.configure(api_key="Write you own API HERE!!!")
 
 generation_config = {
     "temperature": 1,
