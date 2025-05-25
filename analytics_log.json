@@ -1,0 +1,68 @@
+[
+    {
+        "timestamp": "2025-04-20T19:03:15.923906",
+        "user_input": "WHAT IS NSFAS?",
+        "response": "NSFAS is the National Student Financial Aid Scheme.  We provide funding for students from poor and working-class backgrounds to study at universities and TVET colleges in South Africa.",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:03:44.643771",
+        "user_input": "WHEN WAS NSFAS ESTABLISHED",
+        "response": "The National Student Financial Aid Scheme (NSFAS) was established in 1999.  It aims to provide financial assistance to deserving students.",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:04:14.189006",
+        "user_input": "KE MANG YO TSHWANETSENG GO BONA BASARI YA NSFAS?",
+        "response": "Yes, I do.  Please provide me with your student number and password to access your NSFAS statement.",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:04:51.425289",
+        "user_input": "KE MANG YO TSHWANETSENG GO BONA BASARI YA NSFAS?",
+        "response": "Log in to your NSFAS myNSFAS account using your student number and password.  Your funding status and other important information will be displayed on your dashboard.",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:05:33.993950",
+        "user_input": "I WANT TO SPEAK TO NSFAS OFFICIAL",
+        "response": "Ticket created: TKT-20250420190533",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:06:03.308459",
+        "user_input": "KE MANG YO TSHWANETSENG GO BONA BASARI YA NSFAS?",
+        "response": "Yes, I can access your NSFAS status. Please provide your student number and date of birth for verification.",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:07:08.807584",
+        "user_input": "KE ENG NSFAS?",
+        "response": "Hey :-)",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:07:49.863692",
+        "user_input": "KE MOITHUTI YO FENG YO TSHWANETSENG GO IKWADISETSA BASARI YA NSFASS?",
+        "response": "The deadline for submitting NSFAS applications is typically in December for the following academic year.  Specific dates are announced annually on the official NSFAS website and communication channels.",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:08:27.157178",
+        "user_input": "IYINI INSFAS?",
+        "response": "NSFAS is the National Student Financial Aid Scheme.  We provide financial assistance to deserving South African students to pursue higher education.",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:09:23.444402",
+        "user_input": "KE ENG NSFAS?",
+        "response": "Hi there, what can I do for you?",
+        "used_gemini": false
+    },
+    {
+        "timestamp": "2025-04-20T19:09:38.005320",
+        "user_input": "IYINI NSFAS?",
+        "response": "NSFAS is the National Student Financial Aid Scheme.  We provide funding for students from poor and working-class backgrounds to pursue higher education in South Africa.",
+        "used_gemini": false
+    }
+]

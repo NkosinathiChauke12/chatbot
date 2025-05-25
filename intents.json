@@ -1,0 +1,81 @@
+{
+  "intents": [
+    {
+      "tag": "who_can_apply",
+      "patterns": ["Who can apply for NSFAS?"],
+      "responses": ["All South African citizens and permanent residents can apply. For a bursary, combined household income must not exceed R350,000 per annum. For a loan, income must be between R350,000 and R600,000. Persons with disabilities must not exceed R600,000 per annum."]
+    },
+    {
+      "tag": "who_must_reapply",
+      "patterns": ["Who must re-apply for NSFAS?"],
+      "responses": ["Returning university students who move through NSFAS academic pathways, students changing institution types, and students who dropped out and wish to resume studies must reapply."]
+    },
+    {
+      "tag": "who_cannot_apply",
+      "patterns": ["Who cannot apply for NSFAS bursary?"],
+      "responses": ["Students funded 100% by non-NSFAS sources, those with an existing undergraduate qualification, students studying at private institutions, or those in non-DHET/SAQA accredited courses cannot apply."]
+    },
+    {
+      "tag": "who_can_apply_loan",
+      "patterns": ["Who can apply for NSFAS loan?"],
+      "responses": ["Students in under/post-graduate programmes with household income between R350,000 and R600,000 per annum. 70% funding goes to STEM, 30% to Humanities. A 60% pass rate is required. 70% academic performance may lead to a 50% bursary conversion."]
+    },
+    {
+      "tag": "required_documents",
+      "patterns": ["What documents are required when applying for NSFAS?"],
+      "responses": ["NSFAS requires personal income info and various forms: Declaration Form, Orphan and Vulnerable Child Form, Consent Form, Proof of guardianship (if applicable), and Disability Annexure Form if disabled."]
+    },
+    {
+      "tag": "nsfas_application",
+      "patterns": [
+        
+        "What documents do I need to apply for NSFAS?",
+        "Why is my NSFAS application taking so long to process?",
+        "How do I cancel my NSFAS application?"
+      ],
+      "responses": [
+        
+        "You will need a certified copy of your ID, proof of income, and other supporting documents.",
+        "NSFAS processes a high volume of applications. It can take weeks to verify documents and approve funding.",
+        "Log in to your NSFAS account and select the cancel option or contact NSFAS support."
+      ]
+    },
+    {
+      "tag": "funding_status",
+      "patterns": [
+        "How do I know if I am approved for NSFAS?",
+        "What does it mean if my NSFAS status says 'Provisionally Funded'?",
+        "Why does my NSFAS status say 'Funding Withdrawn'?",
+        "Does NSFAS fund students with disabilities?"
+      ],
+      "responses": [
+        "Check your NSFAS status online or wait for an SMS confirmation.",
+        "This means you qualify, but NSFAS is awaiting registration confirmation from your institution.",
+        "This could be due to academic ineligibility, incorrect information, or missing documents. Appeal if necessary.",
+        "Yes, students with disabilities qualify under a higher household income threshold of R600,000 per year."
+      ]
+    },
+    {
+      "tag": "academic_progress",
+      "patterns": [
+        "What happens if I fail all my NSFAS-funded modules?"
+        
+      ],
+      "responses": [
+        "NSFAS may stop funding you. You will need to appeal or reapply."
+       
+      ]
+    },
+    {
+      "tag": "appeals",
+      "patterns": [
+        "How do I appeal an NSFAS funding rejection?"
+       
+      ],
+      "responses": [
+        "Submit an appeal online with supporting documents."
+       
+      ]
+    }
+  ]
+}
