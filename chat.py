@@ -34,7 +34,7 @@ NSFAS_KEYWORDS = ["nsfas", "funding", "bursary", "loan", "allowance", "scholarsh
 analytics_log = []
 
 # Google Gemini setup
-genai.configure(api_key="AIzaSyD1JaVxrlkMty1R0Zn2sjxC5w9I86woYjs") 
+genai.configure(api_key="Write your Gemini code here") 
 generation_config = {
     "temperature": 1,
     "top_p": 0.95,
